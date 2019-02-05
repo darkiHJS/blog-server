@@ -3,10 +3,10 @@ const mongoose = require('mongoose')
 let articleSchema = new mongoose.Schema({
   title: String,
   isPublish: { type: Boolean, default: false },
-  richContent: String,
   author: { type: String, default: "Darki" },
-  date: { type: Number, default: Date.now },
-  fileName: String,
+  date: Number,
+  articleContent: String,
+  tag:[{type:String}],
   comments: Number 
 }) 
 

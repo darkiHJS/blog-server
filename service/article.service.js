@@ -20,13 +20,9 @@ module.exports = {
       })
     })
   },
-  addArticle: async () => {
-    const article = new articleModel({
-      title: '测试一哈',
-      author: '测试猴子123',
-      fileName: 'test.text',
-      richContent: '猴子吃香蕉，香蕉草木深'
-    })
+  addArticle: async (data) => {
+    console.log(data)
+    const article = new articleModel(data)
     await article.save()
     return 0
   },

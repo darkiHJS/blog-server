@@ -21,7 +21,8 @@ var get_article = async (ctx, next) => {
 }
 
 var post_article = async (ctx, next) => {
-  
+    addArticle(ctx.request.body)
+  ctx.body = 0
 }
 var del_article = async (ctx, next) => {
   ctx.body = deleteArticle(ctx.query._id)
