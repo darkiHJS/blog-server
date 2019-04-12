@@ -1,5 +1,8 @@
-var fn_test = async (ctx, next) => {
-  ctx.response.body = '我爱yzl'
+const { getGoods } = require('../service/mock.service')
+
+var fn_test = async function(ctx, next){
+  ctx.response.body = await getGoods();
+  await next() 
 }
 
 module.exports = {

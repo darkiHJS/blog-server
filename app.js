@@ -10,9 +10,9 @@ const dbConfig    = require('./db/config');
 const app         = new Koa();
 
 app.use(async (req,next) => {
-  mongoose.connect(dbConfig.blog, {
-    useNewUrlParser: true
-  })
+  // mongoose.connect(dbConfig.blog, {
+  //   useNewUrlParser: true
+  // })
   await next()
 })
 app.use(cors({origin: 'http://localhost:8080',})) // 跨域
