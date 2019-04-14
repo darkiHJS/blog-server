@@ -1,0 +1,1889 @@
+{
+  "cat": [
+    {
+      "name": "蛋糕",
+      "title": "蛋糕",
+      "description": "新鲜乳脂奶油蛋糕",
+      "cat_ids": "2,3,4,5,6,20,49,18,74,75",
+      "sort": "1"
+    },
+    {
+      "name": "冰淇淋",
+      "title": "＋Gelato10",
+      "description": "10天生命的意式杰拉朵冰淇淋",
+      "cat_ids": "29,61",
+      "sort": "2"
+    },
+    {
+      "name": "咖啡下午茶",
+      "title": "配饮",
+      "description": "挂耳咖啡小切块",
+      "cat_ids": "35,37",
+      "sort": "4"
+    },
+    {
+      "name": "常温蛋糕",
+      "title": "常温蛋糕",
+      "description": "方便携带，恰到好处的满足",
+      "cat_ids": "36",
+      "sort": "5"
+    },
+    {
+      "name": "设计师礼品",
+      "title": "礼品",
+      "description": "设计师礼品专区",
+      "cat_ids": "52",
+      "sort": "6"
+    },
+    {
+      "name": "面包",
+      "title": "面包",
+      "description": "面包",
+      "cat_ids": "81,80,79,78,77",
+      "sort": "7"
+    }
+  ],
+  "goodsArr": {
+    "1": {
+      "name": "蛋糕",
+      "title": "蛋糕",
+      "description": "新鲜乳脂奶油蛋糕",
+      "goods": [
+        {
+          "id": "12",
+          "imgUrl": "/goods/1459337079137.jpg",
+          "name": "百利甜情人",
+          "enName": "Bailey's Love Triangle",
+          "brief": "/爱尔兰百利甜酒/新西兰奶油/云南玫瑰甘露/<br/>\nJust Bailey's, light cream and you. The flavours may be velvetty subtle, but the chemistry is as electric as a first kiss. \n<BR>\n*玫瑰花瓣经过消毒处理，仅用作装饰，不可食用。<br/>\n<font color='red'>* 当前水果夹心为：草莓。</font><br/>\n<font color='red'>*玫瑰花瓣经过消毒处理，仅用作装饰使用（使用围边纸与蛋糕隔开），不可食用。</font><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "45",
+              "content": "结婚"
+            },
+            {
+              "id": "46",
+              "content": "相识"
+            },
+            {
+              "id": "37",
+              "content": "情人节"
+            }
+          ]
+        },
+        {
+          "id": "952",
+          "imgUrl": "/upload/images/f1b375017b865ee0bef44dbb4736b564.jpg",
+          "name": "百利甜情人-白色版",
+          "enName": "White Bailey's Love Triangle",
+          "brief": "2019白色情人节专供款<br/>\n/爱尔兰百利甜酒/新西兰奶油/云南玫瑰甘露/<br/>\nJust Bailey's, light cream and you. The flavours may be velvetty subtle, but the chemistry is as electric as a first kiss. \n<BR>\n 当前水果夹心为：草莓。</font><br/>\n<font color='red'>*玫瑰花瓣经过消毒处理，仅用作装饰使用（使用围边纸与蛋糕隔开），不可食用。</font><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            }
+          ]
+        },
+        {
+          "id": "956",
+          "imgUrl": "/upload/images/11924eab7e2607d983d364379c02ae6a.png",
+          "name": "野餐篮",
+          "enName": "",
+          "brief": "——内含【六口味切块蛋糕*1，北海道吐司*1，阳光葡萄卷*1，蓝莓丹麦*1，新疆灰枣*1】赠正山小种红茶2盒。<br/>\n足有10种口味单品<br/>\n搭配专业冰包<br/>\n打包带走一个自助brunch餐桌",
+          "price": "298.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "17",
+          "imgUrl": "/upload/images/78ad114c07704d96ac2d8123d9ae480c.jpg",
+          "name": "黑白巧克力慕斯",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "/口感冰凉细腻，白巧克力慕斯的甜，与底部黑巧克力酱的苦/<br/>\nCool, silky white chocolate. Rich, bitter dark chocolate. They’re like the mismatched cop duo who spent all their time bickering but always got results. The results in this case? A dessert experience to die for. \n",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "imgUrl": "/goods/14593369123250.jpg",
+          "name": "平安夜",
+          "enName": "Silent Night ",
+          "brief": "/等一年，就等一场雪/<br/>\n\nThe names Gruber and Mohr may not ring any (Christmas) bells for most, but between them this humble church organist and assistant pastor from a small town in the Austrian Alps penned the world’s most famous Christmas... ",
+          "price": "328.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            }
+          ]
+        },
+        {
+          "id": "960",
+          "imgUrl": "/upload/images/4f76e8a8c4bbfda06685bfd6b3ed1551.jpg",
+          "name": "黑白巧克力慕斯 彼尔德（亲亲）",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "彼尔德联名款--猪年限定版",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "20",
+              "content": "设计师款"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "56",
+              "content": "新品活动"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "imgUrl": "/upload/images/188c8acc532f51064747041412ecc030.jpg",
+          "name": "黑森林",
+          "enName": "Black Forest ",
+          "brief": "/樱桃酒味从巧克力卷的缝隙飘出/<br/>\n/向往极北的黑森林，纷飞的雪花里有精灵的歌咏/<br/>\nThick dark chocolate and rich fruity Kirsch (cherry spirit) are locked in a Pandora’s Box of plump cake layers and chocolate. Don’t take a bite or you’ll free the passion! OK, you can…but just a nibble… <br/>\n<font color='red'>巧克力卷易脱落，不影响食用。</font><br/>",
+          "price": "398.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "962",
+          "imgUrl": "/upload/images/7c8bb6800b5ff00ab44d7980585ead35.jpg",
+          "name": "黑白巧克力慕斯彼尔德（ＨＢＤ）",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "彼尔德联名款--猪年限定版",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "20",
+              "content": "设计师款"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "56",
+              "content": "新品活动"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "imgUrl": "/goods/14593363138999.jpg",
+          "name": "黑越橘",
+          "enName": "Blue Monday",
+          "brief": "/从苏必利尔湖西端，至安大略湖东端的1400公里，是北美五大湖所经流域/<br/>\n/这里，是黑越橘（野生蓝莓）的天堂/<br/>\nGot those Monday blues? It’s time for a Blue Monday. Premium fresh blueberry jam atop a joyous mountain of creamy cheesecake, topped off with a Joy Division of the freshest... <br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "754",
+          "imgUrl": "/upload/images/59954fac59f25d03564b474b1a10e385.jpg",
+          "name": "浅草",
+          "enName": "Teatime",
+          "brief": "/“浅草才能没马蹄”/</br>\n/切着吃的雨前西湖龙井/</br>\n/中国绿茶与爽脆果实，工笔勾勒一杯好茶/</br>\n/复杂而纯粹的深浅绿意/</br>\n\n*本款为季节性产品，夹心层4月4日起为马蹄。",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "46",
+              "content": "相识"
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "imgUrl": "/upload/images/c28932d6886994d259828091a579f744.jpg",
+          "name": "朗姆芝士",
+          "enName": "Rum Cheese Cake",
+          "brief": "/香滑的乳酪与打开的一瓶波多黎各朗姆酒/<br/>\n/酒香，微苦，清新的柠檬/<br/>\nShiver me timbers! Here’s a rum one – but unlike most of its seafaring fellows our rum cheesecake is far from swarthy. ",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "37",
+              "content": "情人节"
+            }
+          ]
+        },
+        {
+          "id": "637",
+          "imgUrl": "/upload/images/22209c54953376c0478b4ac98490f95c.jpg",
+          "name": "芒果奶油蛋糕",
+          "enName": "Mango Cream Cake",
+          "brief": "/不使用罐头水果和植混奶油/<br/>\n/坚持自然成熟，应季鲜切芒果/<br/>\n/新西兰纯乳脂奶油/<br/>\n/自研芒果百香果慕斯夹心/<br/>\n<font color='red'>高价值，平价水果蛋糕，21cake惠客款，不与其他优惠同享。\n</font><br/>",
+          "price": "198.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "45",
+              "content": "结婚"
+            }
+          ]
+        },
+        {
+          "id": "948",
+          "imgUrl": "/upload/images/49c01e7a633b0a2bf42912dcfe80d015.jpg",
+          "name": "可可岛",
+          "enName": "Cocoa Island",
+          "brief": "/精品巧克力蛋糕，四种不同可可含量巧克力食材/<br/>/搭配葡萄酒，展现风味曲线/<br/> \n/附赠21cake自研精品挂耳咖啡/<br/>\n*含酒 不建议小孩孕妇食用",
+          "price": "458.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            }
+          ]
+        },
+        {
+          "id": "817",
+          "imgUrl": "/upload/images/e7d2b8fb0c791c005d06110adb477ffe.jpg",
+          "name": "黑白巧克力慕斯（千阳号）",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "</strong><br/><font color='red'>撒粉款【黑白巧克力慕斯蛋糕】为整块，不切分</font>",
+          "price": "358.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "30",
+              "content": "新品"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "imgUrl": "/upload/images/81b09aa45297303df48e81496abb58c5.jpg",
+          "name": "草莓奶油蛋糕",
+          "enName": "Strawberry Cream Cake",
+          "brief": "/草莓配奶油，从王室，前往温布尔登的雨季/</br>\nNow 21cake has encapsulated this gloriously English tradition in square cake form. At Wimbledon, which dates back to 1877, protocol and propriety rule. Players must wear white...</br>",
+          "price": "228.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "37",
+              "content": "情人节"
+            }
+          ]
+        },
+        {
+          "id": "903",
+          "imgUrl": "/upload/images/09a0e9ed62a3e4ead9a8f1685dc3dbde.jpg",
+          "name": "小重组（树莓套组）",
+          "enName": "",
+          "brief": "/设计师款「重组」mini版/<br/>\n/改写人们只能被动接受成品食物的形式/<br/>\n/要求人们主动获得食物/<br/>\n/获得自己需要的体验/<br/>\n*三种“重组可能”供选择<br/>\n<font color='red'>每日限量100份\n</font><br/>",
+          "price": "298.00",
+          "spec": "160g",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "51",
+              "content": "重组系列"
+            }
+          ]
+        },
+        {
+          "id": "905",
+          "imgUrl": "/upload/images/57f7193d068881468f95e4fb2d0f5552.jpg",
+          "name": "小重组（蓝莓套组）",
+          "enName": "",
+          "brief": "/设计师款「重组」mini版/<br/>\n/改写人们只能被动接受成品食物的形式/<br/>\n/要求人们主动获得食物/<br/>\n/获得自己需要的体验/<br/>\n*三种“重组可能”供选择<br/>\n<font color='red'>每日限量100份\n</font><br/>",
+          "price": "298.00",
+          "spec": "160g",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "51",
+              "content": "重组系列"
+            }
+          ]
+        },
+        {
+          "id": "907",
+          "imgUrl": "/upload/images/f0e15c9a9bea261edd6dc0cf5bcfd3d8.jpg",
+          "name": "小重组（迷迭香套组）",
+          "enName": "",
+          "brief": "/设计师款「重组」mini版/<br/>\n/改写人们只能被动接受成品食物的形式/<br/>\n/要求人们主动获得食物/<br/>\n/获得自己需要的体验/<br/>\n*三种“重组可能”供选择<br/>\n<font color='red'>每日限量100份\n</font><br/>",
+          "price": "298.00",
+          "spec": "160g",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "51",
+              "content": "重组系列"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "imgUrl": "/upload/images/58c4227141bbcf6efe30b5940267a1a9.jpg",
+          "name": "榴莲飘飘",
+          "enName": " A Picture of Durian Grey ",
+          "brief": "/自然成熟的泰国榴莲/<br/>\n/在曼谷，官兵后代庭院中，生长着一百年至一百五十年的榴莲树/<br/>\nImagine if an object could bear the weight of all your sins, while you swan about ever beautiful. The durian fruit bears the weight of its sins on the outside, in the form of its malodorous stench.",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "imgUrl": "/goods/145933696681.jpg",
+          "name": "中秋坚果芝士慕斯",
+          "enName": "The Moon Cake",
+          "brief": "/远渡重洋而来的坚果，还原记忆深处的果仁浓香/<br/>\n/月光如果可以凝固，一定是芝士慕斯的味道/<br/>\nGreat memories are remembered by great food. An assortment of nuts collected from distant lands help to revisit flavours of times past. If the moon were edible... ",
+          "price": "268.00",
+          "spec": "1.0磅",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            }
+          ]
+        },
+        {
+          "id": "563",
+          "imgUrl": "/upload/images/d9271fefbf341ffef634aa7ebfed7ab9.jpg",
+          "name": "（新）栗蓉暗香",
+          "enName": "Chestnut Cream",
+          "brief": "/栗子烘烤的蛋糕坯，鲜栗蓉，点缀手工比利时黑巧克力豆/<br/>\nChestnuts and real fresh cream go so well together you know this isn’t going to be a short term dalliance. In fact, one whiff of the aroma of Chestnut Cream and you’ll realize you’re attending their wedding... ",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "32",
+              "content": "长辈"
+            }
+          ]
+        },
+        {
+          "id": "798",
+          "imgUrl": "/upload/images/6b8dd4e2c5bd0f908b224ba0abe46ad8.jpg",
+          "name": "松仁淡奶（木糖醇）",
+          "enName": "Pine Stone Cowboy",
+          "brief": "/奶油与坚果的和谐、轻甜/<br/>\n<strong>*本品使用木糖醇代替蔗糖，口感无差别。</strong><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "32",
+              "content": "长辈"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "imgUrl": "/upload/images/8b1e56924f869afde7dae8243900af8a.jpg",
+          "name": "冻慕斯与焗芝士",
+          "enName": "Cool&Hot ",
+          "brief": "/平衡冰与火/<br/>\n/新鲜奶油慕斯，平滑叠加降温至4度的现焗法国软芝士，轻盐味，诱发原香，丰富甜/<br/>\nBalance between cool and hot.\nFresh cream mousse smoothed overlying on baked french cheese, cooled down till 4 degree celsius. Light salty, induce original flavor and enrich sweet...",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "imgUrl": "/upload/images/fe9f6d95e37eed09a253fc8a99525a11.jpg",
+          "name": "松仁淡奶",
+          "enName": "Pine Stone Cowboy",
+          "brief": "/中国松仁，和着甜润淡奶咀嚼/<br/>\nA soft, sentimental sponge unfettered as a prairie, but with a sheen of bad boy dark chocolate on top. And there, like stars over the desert, is a rugged studding of pine nuts. <br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "32",
+              "content": "长辈"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "imgUrl": "/upload/images/3723e4875bb28d90eb77cbeda8b58f55.jpg",
+          "name": "东方栗融",
+          "enName": "Wall&Tree",
+          "brief": "/明长城时期种植的栗树，直径超过1米，枝繁叶茂，正值壮年。/\n<br>\n/百年生·油栗。21cake東方栗融蛋糕。/\n<BR>\nChinese chestnut trees were planted during the construction of the Great Wall in Ming Dynasty.\nNow the trees have matured and flourishing with trunks over 1 meter in diameter.\nChestnuts from 500 years old trees are used exclusively for 21cake’s exquisite Wall & Tree Chestnut Cake.<br/>\n<font color='red'>需要提前24小时订购，请您注意修改成相应的送货时间。</font>",
+          "price": "490.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "32",
+              "content": "长辈"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "imgUrl": "/upload/images/876769ac33295fb48da37430f85067f5.jpg",
+          "name": "布莱克",
+          "enName": "The Nut Job Big ",
+          "brief": "/比利时黑巧克力与中国榛子，淡苦与干脆，浓香丰满/ <br/>\nCrazily crisp dark chocolate and kookily nutty fist fulls of Chinese hazelnuts make this one nut job you won’t want to lock up. <br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "36",
+              "content": "一人份"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "imgUrl": "/upload/images/f8d71aa2fbf7ba52c3baa863603747bd.jpg",
+          "name": "布朗尼",
+          "enName": "Brownie Cake ",
+          "brief": "/时光荏苒，亘古不变/<br/>\nIf you ever find yourself packing God’s own lunchbox and you’re looking for the perfect sweet treat, this is it. The humble brownie just got uppity: sure it might look down its nose at you, but only on its way to your mouth. <br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "imgUrl": "/upload/images/822bf8a56403f84dd70e1bfa16d9ed02.jpg",
+          "name": "核桃斯诺",
+          "enName": "Hickory Snow",
+          "brief": "/带着刚刚剥壳的一点微涩，香脆核桃与新西兰乳脂奶油/ <br/>\nHickory dickory dake. The mouse ran up the cake. He found himself surrounded by crunchy nuts, and soft sweet cheese and cream. The clock struck one. The mouse exploded. It was just too much Hickory dickory dake. <br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "32",
+              "content": "长辈"
+            }
+          ]
+        },
+        {
+          "id": "676",
+          "imgUrl": "/upload/images/a447e5ccf956dcb889fe44674ebf214f.jpg",
+          "name": "枣儿",
+          "enName": "Chinese Date",
+          "brief": "/红枣奶油戚风，与姜撞奶慕斯/<br/>\n/温暖、绵延，日常题材的一闪灵感/<br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "imgUrl": "/upload/images/7e017fe2adf6d6b42fd18d9c06623de6.jpg",
+          "name": "芒果慕斯",
+          "enName": "Mango Jerry ",
+          "brief": "/采用当季成熟鲜芒，做出理想的芒果慕斯/<br/>\n/优质芒果的三种姿态，与青柠酸乳酪夹心/<br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "46",
+              "content": "相识"
+            }
+          ]
+        },
+        {
+          "id": "209",
+          "imgUrl": "/upload/images/505c71f60ac4b3d96744a6bb54d63cb1.jpg",
+          "name": "摩卡",
+          "enName": "Café Mocha",
+          "brief": "/世上还有摩卡，就有无尽挣扎/",
+          "price": "398.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "36",
+              "content": "一人份"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "47",
+              "content": "总有一款适合你"
+            }
+          ]
+        },
+        {
+          "id": "587",
+          "imgUrl": "/upload/images/327595e905e1fb3385478b4b6d2253fc.jpg",
+          "name": "新卡",
+          "enName": "Cappuccino In Mind",
+          "brief": "/低温乳脂奶油冷萃耶加雪菲/<br/>\n/配马达加斯加香草戚风/<br/>\n",
+          "price": "398.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "36",
+              "content": "一人份"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            }
+          ]
+        },
+        {
+          "id": "796",
+          "imgUrl": "/upload/images/bd98be4be1de2edd23694874b3352fd0.jpg",
+          "name": "彼尔德（Party）黑白巧克力慕斯",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "/“ 孩子的世界，简单到非黑即白。”/<br/>\n/去除原有酒精成分/<br/>\n/小孩子也可以放心塞进嘴里/<br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "46",
+              "content": "相识"
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "imgUrl": "/upload/images/a5ead52bc79022ccf30c38be37f4ac04.jpg",
+          "name": "杰瑞",
+          "enName": "Jerry ",
+          "brief": "/谁动了我的奶酪？!/<br/>\nWho touched my cheese? A silky smooth cheese cake fit for the king of mice. Rich and tempting with a crunchy biscuit base. No cats allowed! /<br/>\n<strong>*订购5磅及以上规格，蛋糕默认为小切块。</strong><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "47",
+              "content": "总有一款适合你"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "imgUrl": "/upload/images/d290a164f8824685201f20ebe30aaa69.jpg",
+          "name": "百香果酸乳酪慕斯蛋糕",
+          "enName": "Easycake",
+          "brief": "/何况它，有超过130种芳香。/<br/>\n/除了酸味，百香果是世界上已知，/<br/>\n/充满芳香的水果之一。/<br/>\n<strong>*冰淇淋口感，不同层次的酸与冰凉。</strong><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "45",
+              "content": "结婚"
+            }
+          ]
+        },
+        {
+          "id": "784",
+          "imgUrl": "/upload/images/e200e94fa39c83fa4337e21a0ee7b72a.jpg",
+          "name": "百香果酸乳酪慕斯（木糖醇）",
+          "enName": "Easycake",
+          "brief": "/何况它，有超过130种芳香/<br/>\n/除了酸味，百香果是世界上已知，/<br/>\n/充满芳香的水果之一。/<br/>\n/冰淇淋口感，不同层次的酸与冰凉/<br/>\n<strong>*本品使用木糖醇代替蔗糖，口感无差别。</strong><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            }
+          ]
+        },
+        {
+          "id": "662",
+          "imgUrl": "/upload/images/f0b8c71b2fba5ab2a5773595a1c13e32.jpg",
+          "name": "深艾尔",
+          "enName": "Dark Ale",
+          "brief": "/深色烈性艾尔啤酒风味慕斯/<br/>\n/搭配酸樱桃果酱、巧克力甘纳许/<br/>\n/使用四种啤酒：/<br/>\n/罗斯福10号修道院，分水岭野人帝国世涛/<br/>\n/林德曼樱桃酸啤，喜力淡色拉格/<br/>\n*婴幼儿、老人、孕妇及酒精过敏者不宜食用。",
+          "price": "268.00",
+          "spec": "1.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "46",
+              "content": "相识"
+            }
+          ]
+        },
+        {
+          "id": "541",
+          "imgUrl": "/upload/images/887535ff37a336eb09fe99170c9b3f6b.jpg",
+          "name": "深爱百利甜情人蛋糕",
+          "enName": "Deep Bailey's Lovers",
+          "brief": "/奶油中调入玫瑰甘露，整体色泽加深/<br/>\n/夹心中增加可咀嚼的玫瑰蜜饯，丰富口感/<br/>\n<font color='red'>* 当前水果夹心为：草莓。</font><br/>\n<font color='red'>*玫瑰花瓣经过消毒处理，仅用作装饰使用（使用围边纸与蛋糕隔开），不可食用。</font><br/>",
+          "price": "398.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "682",
+          "imgUrl": "/upload/images/b268553ed6640950cead99e5cd5642e7.jpg",
+          "name": "尽享小切块3+1组合",
+          "enName": "Four Different Flavored Cakes",
+          "brief": "",
+          "price": "108.00",
+          "spec": "3+1组合",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            }
+          ]
+        },
+        {
+          "id": "690",
+          "imgUrl": "/upload/images/31ad1048931a2871f920a4a69c628fa1.jpg",
+          "name": "彼尔德（生日）黑白巧克力慕斯",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "</strong><br/><font color='red'>撒粉款【黑白巧克力慕斯蛋糕】为整块，不切分</font>\n\n\n",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            }
+          ]
+        },
+        {
+          "id": "650",
+          "imgUrl": "/upload/images/b1a6e87bcf1cb033f7a77d6e44ade49d.jpg",
+          "name": "6口味切块",
+          "enName": "Six Different Flavored Cakes",
+          "brief": "/21cake切块蛋糕/<br/>\n/月销进入3万盒之际/<br/>\n/增加单个切块蛋糕克重/<br/>\n/使6口味切块的总克数接近一磅/<br/>",
+          "price": "198.00",
+          "spec": "6个（6种口味）",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "569",
+          "imgUrl": "/upload/images/26e5a5d8f3fa4e50580dfdc7d9574808.jpg",
+          "name": " （撒粉生日）黑白巧克力慕斯",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "/口感冰凉细腻，白巧克力慕斯的甜，与底部黑巧克力酱的苦/<br/>\nCool, silky white chocolate. Rich, bitter dark chocolate. They’re like the mismatched cop duo who spent all their time bickering but always got results. The results in this case? A dessert experience to die for. <br/><br/>\n<font color='red'>撒粉款【黑白巧克力慕斯蛋糕】为整块，不切分</font><br/>\n",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            }
+          ]
+        },
+        {
+          "id": "698",
+          "imgUrl": "/upload/images/f7643036ea61b99a34dfbbb921b93879.png",
+          "name": "便携冰包-象牙白",
+          "enName": "Ice bag",
+          "brief": "<font color='red'> \n建议携带款式：布朗尼、布莱克、杰瑞、黑白、黑方、黑越橘、心语心愿、冻慕斯与焗芝士</font>",
+          "price": "65.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "26",
+          "imgUrl": "/upload/images/d6f73d4a02abd614e6c2b5cfc305021d.jpg",
+          "name": "爱尔兰咖啡",
+          "enName": "Irish Coffee",
+          "brief": "/真正的爱从未中断，也不会消失，它永远在守候下一刻就要坐到对面....../<br/>\nTopped with a shimmering jelly made with real Jameson’s Irish Whiskey, a crisp chocolate biscuit base gives way to a thick and fluffy coffee mousse. <br/>\n*婴幼儿、老人、孕妇及酒精过敏者不宜食用。",
+          "price": "268.00",
+          "spec": "1.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "47",
+              "content": "总有一款适合你"
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "imgUrl": "/upload/images/6d3698893ae88a0a391f9b90dd02335d.jpg",
+          "name": "桂圆冰淇淋蛋糕",
+          "enName": "Ice Cream Cake with Longan",
+          "brief": "/白兰地让人分神，有些记忆与酒有关/</br>\n/一边融化，香味渐浓....../</br>\nIt's more than the pleasing taste of dried longan. The flavor of brandy comes by unexpectedly, the cream dissolves on your tongue like a pleasant memory. ",
+          "price": "198.00",
+          "spec": "1.0磅",
+          "tags": [
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "imgUrl": "/upload/images/1cc25b8c3296c4a8e7cc51b0a385e731.jpg",
+          "name": "清境",
+          "enName": "Minty White",
+          "brief": "/当薄荷的清新，遇上青柠的淡香/<br/>\nWhere the freshness of Mint meets the aroma of Lime. <br/>\n（3磅及以上为隔块插叶）",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "30",
+              "content": "新品"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "46",
+              "content": "相识"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "imgUrl": "/upload/images/96a6ce52ffe1339daf51d03caad48707.jpg",
+          "name": "黑方",
+          "enName": "Black Label ",
+          "brief": "/法国白兰地的味道，更衬纯黑巧克力的香醇/<br/>\nAs absence makes the heart grow fonder, whisky makes chocolate grow stronger, or at least its aroma. Here the pristine modern lines mirror China’s sparkling new architecture... ",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "47",
+              "content": "总有一款适合你"
+            }
+          ]
+        },
+        {
+          "id": "219",
+          "imgUrl": "/upload/images/c2055ffac69c5e4e96f26f8d9414cc81.jpg",
+          "name": "汉砖",
+          "enName": "Bricks of Ancient China",
+          "brief": "/设计师限量款/</br>\n/千年以前的平行世界 /</br>\n/巧克力，未央宫。/</br>\nTracing back to the Palace Era of China, Chocolate has just been found in Ancient Indian. At the same time two different places, together formed an allusion about the years.</br>\n*婴幼儿、老人、孕妇及酒精过敏者不宜食用。</br>\n\n<font color='red'>-18℃低温配送，解冻至-5℃，此状态食用更佳。</font><br/>",
+          "price": "98.00",
+          "spec": "0.25磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "20",
+              "content": "设计师款"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "36",
+              "content": "一人份"
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "imgUrl": "/upload/images/56222ace4ddc9d661467ce115f6b7a89.jpg",
+          "name": "新马斯卡彭-咖啡软芝士蛋糕",
+          "enName": "forget Tiramisu ",
+          "brief": "/多孔蛋糕坯，深深沉浸墨西哥咖啡甘露/<br/>\n/加杯咖啡，忘记提拉米苏/<br/>\nA perforated cake base, soaked in Mexican coffee syrup.\nNow，forget Tiramisu... </br>\n*婴幼儿、老人、孕妇及酒精过敏者不宜食用。",
+          "price": "390.00",
+          "spec": "1.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            }
+          ]
+        },
+        {
+          "id": "245",
+          "imgUrl": "/upload/images/b97c755b92ab5a0791cd05b16e04ee18.jpg",
+          "name": "重组",
+          "enName": "Mille-feuille",
+          "brief": "/设计师限量款/<br/>\n/源于一个决定：21cake与张永和一起/<br/>\n/探讨，设计研发符合人类进步的食物/<br/>\n/传统的mille-feuille/Napolitain千层酥蛋糕/<br/>\n/在这里，已不是翻译/转译/<br/>\n",
+          "price": "968.00",
+          "spec": "1.5磅",
+          "tags": [
+            {
+              "id": "20",
+              "content": "设计师款"
+            },
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "51",
+              "content": "重组系列"
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "imgUrl": "/upload/images/4012f756d6319a7a5f45aba2e23ea637.jpg",
+          "name": "抹茶和栗",
+          "enName": "Matcha & Chestnut Mousse",
+          "brief": "/那国度惊惧于，有人开始闭上眼睛/</br>\n/时间过去7年，21cake‘抹茶和栗慕斯’蛋糕/</br>\n/回归于对东方抹茶，及今日的/</br>\n/全新意见/</br>\n<font color='red'>浓郁抹茶本味，苦。</font><br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "22",
+              "content": "聚会"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "47",
+              "content": "总有一款适合你"
+            }
+          ]
+        },
+        {
+          "id": "218",
+          "imgUrl": "/upload/images/441c962bf85d5fb1b5fb2f15fc0e0fbd.jpg",
+          "name": "风乍起",
+          "enName": "Unexpected Wind",
+          "brief": "*设计师限量款*</br>\n/如期，又无法预期的每一次/</br>\n/东南信风越过赤道/</br>\nAmazing is a sudden burst of aroma, bring a moment of trance. Each of the fixed expectations is unpredictable. Mixture of Coconut, Pandan and lemongrass deepen the authentic tropical style. ",
+          "price": "398.00",
+          "spec": "1.0磅",
+          "tags": [
+            {
+              "id": "20",
+              "content": "设计师款"
+            },
+            {
+              "id": "29",
+              "content": "低温"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "imgUrl": "/upload/images/c428279ffac4d47fd774751d29e0cda9.jpg",
+          "name": "心语心愿",
+          "enName": "Heartfelt Wish ",
+          "brief": "/椰子香气，蛋糕坯的颗粒感平衡奶油的软滑，烛光/<br/>\nIf your heartfelt wish has a rich coconut aroma, a crunchy cake base and the balanced smoothness of cream you’re going to be very happy when you blow out the candle. if not, you might be slightly disappointed. But hey - at least you've got cake.\n\n",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "45",
+              "content": "结婚"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "imgUrl": "/upload/images/779ffd7cec8c44e24ea0ce509306fe20.jpg",
+          "name": "杏仁克鲁兹",
+          "enName": "Crumble",
+          "brief": "/烘烤出的扁桃仁片，混合新西兰乳脂奶油的香/<br/>\n/要怎么体会，让自己决定/ <br/>\nRoasted almond slices dally with pure New Zealand cream, like an awkward philosophical question followed by a sensual Eureka moment. A teasingly crunchy premise delivering a smooth creamy pay off.<br/>",
+          "price": "298.00",
+          "spec": "2.0磅",
+          "tags": [
+            {
+              "id": "32",
+              "content": "长辈"
+            },
+            {
+              "id": "44",
+              "content": "生日"
+            }
+          ]
+        },
+        {
+          "id": "221",
+          "imgUrl": "/goods/14770358359650.jpg",
+          "name": "21cake生日奶油蛋糕",
+          "enName": "Birthday Cake",
+          "brief": "/少种类的食材，更少糖/<br/>\n/几乎一切围绕如何呈现牛乳的原味/<br/>\n/轻乳酪坯，质地柔软湿润/<br/>\n*每日提供符合21cake标准，不同品种的鲜花花束。",
+          "price": "498.00",
+          "spec": "0.5磅",
+          "tags": [
+            {
+              "id": "17",
+              "content": "情侣"
+            }
+          ]
+        }
+      ]
+    },
+    "2": {
+      "name": "冰淇淋",
+      "title": "＋Gelato10",
+      "description": "10天生命的意式杰拉朵冰淇淋",
+      "goods": [
+        {
+          "id": "111",
+          "imgUrl": "/upload/images/4d839ee123f383d1fd13c47967412bf7.jpg",
+          "name": "原味牛乳冰淇淋",
+          "enName": "Milk Gelato",
+          "brief": "/纯正牛乳，牛乳香，单纯/</br>\n/Gelato10自研，新西兰乳脂奶油/</br>\n/融入鲜奶，单纯之能及/</br>\n",
+          "price": "45.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "641",
+          "imgUrl": "/upload/images/d601bf7609c7e449df5773e4fb354f68.jpg",
+          "name": "荔枝冰淇淋",
+          "enName": "Litchi Gelato",
+          "brief": "/丰富，真实/</br>\n/小众口味荔枝冰淇淋/</br>\n/少见的口味，少见的工艺/</br>\n/每盒gelato10，荔枝冰淇淋/</br>\n/使用超过35%荔枝食材/</br>\n/而非浓缩调味汁 /</br>\n/荔枝香味丰富，真实/</br>\n",
+          "price": "45.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "110",
+          "imgUrl": "/upload/images/221a39cb2e019ce02d7229c901e18233.jpg",
+          "name": "拿铁冰淇淋",
+          "enName": "Latte Gelato",
+          "brief": "/日晒与水洗西达摩拼配，香气浓郁/</br>\n/中偏深烘焙，带来巧克力坚果气息，和烟熏尾韵/</br>\n/咖啡加牛奶，平衡、醇厚/</br>\n",
+          "price": "45.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "112",
+          "imgUrl": "/upload/images/e5bef17b22763a8fdd632916cf268843.jpg",
+          "name": "榴莲冰淇淋",
+          "enName": "Durian Gelato",
+          "brief": "/自采榴莲，馥郁、丰满的种植园级新鲜/</br>\n/每一颗榴莲，都在达到标准成熟度时采摘、筛选并择取/</br>\n/现开果肉，手工打碎，正负1度误差下均值合一/</br>",
+          "price": "45.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "187",
+          "imgUrl": "/upload/images/c227866897b665ad84d40e0ed4ea1591.jpg",
+          "name": "夏日-Affogato组合",
+          "enName": "Affogato",
+          "brief": "/Affogato，冰淇淋吃法的一次实践/</br>\n/现冲，水粉比12:1 。约120ml，90℃-95℃热水冲煮挂耳咖啡/</br>\n/打开Gelato10，将咖啡注入冰淇淋表面/</br>\n/倒入少量，是咖啡“遇见”冰淇淋，凝成细细的冰沙/</br>\n/多倒一点，是咖啡瞬间“融化”冰淇淋/</br>\n/尝一口，Affogato/\n",
+          "price": "55.00",
+          "spec": "份",
+          "tags": []
+        }
+      ]
+    },
+    "4": {
+      "name": "咖啡下午茶",
+      "title": "配饮",
+      "description": "挂耳咖啡小切块",
+      "goods": [
+        {
+          "id": "140",
+          "imgUrl": "/upload/images/3eba02fc2f81e1413274316bc362100b.jpg",
+          "name": "巴西挂耳咖啡",
+          "enName": "Brazil Coffee",
+          "brief": "/烘焙时，以还原产区经典风味为前提/</br>\n/得到干净、低酸，有醇厚坚果香的咖啡液/</br>\n/焦糖、巧克力尾韵持久/</br>\n",
+          "price": "10.00",
+          "spec": "包",
+          "tags": []
+        },
+        {
+          "id": "138",
+          "imgUrl": "/upload/images/016870f84fb3bab38f0a09c8aed39b2a.jpg",
+          "name": "耶加雪菲挂耳咖啡",
+          "enName": "Yirgacheffe Coffee",
+          "brief": "/自烘焙G1等级水洗耶加雪菲豆/</br>\n/烘焙时注意到降低酸度/</br>\n/得到最适合人类味蕾的甜酸比/</br>\n/柔和柠檬香、花香、蜂蜜味，扑面而来/</br>",
+          "price": "10.00",
+          "spec": "包",
+          "tags": []
+        },
+        {
+          "id": "766",
+          "imgUrl": "/upload/images/5f4b6ae847d1438e2aaad33c53555508.jpg",
+          "name": "西达摩挂耳咖啡",
+          "enName": "Sidamo Coffee",
+          "brief": "/浅中焙，G1等级日晒西达摩豆/</br>\n/在降低酸度的同时/</br>\n/充分激发日晒豆成熟的果酱、发酵香/</br>\n/可以品尝到，红酒般的滑顺和重量感/</br>",
+          "price": "10.00",
+          "spec": "包",
+          "tags": []
+        },
+        {
+          "id": "774",
+          "imgUrl": "/upload/images/ca0fab744768f2f67a33f60a2d7aa2ee.jpg",
+          "name": "巴布亚新几内亚挂耳咖啡",
+          "enName": "Papua New Guinea Coffee",
+          "brief": "/原豆经过三次水洗发酵，口感干净绵长/</br>\n/释放草本，与微苦巧克力风味/</br>\n/烘焙时加上优雅烟熏尾调，很别致/</br>",
+          "price": "10.00",
+          "spec": "包",
+          "tags": []
+        },
+        {
+          "id": "537",
+          "imgUrl": "/upload/images/0d607c3efdc5ef65e01d5f931b70cf5a.jpg",
+          "name": "巴西挂耳咖啡盒装（10包入）",
+          "enName": "Brazil Coffee",
+          "brief": "/烘焙时，以还原产区经典风味为前提/</br>\n/得到干净、低酸，有醇厚坚果香的咖啡液/</br>\n/焦糖、巧克力尾韵持久/</br>",
+          "price": "100.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "539",
+          "imgUrl": "/upload/images/16cb42e06298bef3e660a0e39972b791.jpg",
+          "name": "耶加雪菲挂耳咖啡盒装（10包入）",
+          "enName": "Yirgacheffe Coffee",
+          "brief": "/自烘焙G1等级水洗耶加雪菲豆/</br>\n/烘焙时注意到降低酸度/</br>\n/得到最适合人类味蕾的甜酸比/</br>\n/柔和柠檬香、花香、蜂蜜味，扑面而来/</br>",
+          "price": "100.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "770",
+          "imgUrl": "/upload/images/9ab74778cf923c673a861c1026203898.jpg",
+          "name": "西达摩挂耳咖啡盒装（10包入）",
+          "enName": "Sidamo Coffee",
+          "brief": "/浅中焙，G1等级日晒西达摩豆/</br>\n/在降低酸度的同时/</br>\n/充分激发日晒豆成熟的果酱、发酵香/</br>\n/可以品尝到，红酒般的滑顺和重量感/</br>\n",
+          "price": "100.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "778",
+          "imgUrl": "/upload/images/ff7e0b38a1201951a24c400012a0ff84.jpg",
+          "name": "巴布亚新几内亚盒装（10包入）",
+          "enName": "Papua New Guinea Coffee",
+          "brief": "/原豆经过三次水洗发酵，口感干净绵长/</br>\n/释放草本，与微苦巧克力风味/</br>\n/烘焙时加上优雅烟熏尾调，很别致/</br>",
+          "price": "100.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "750",
+          "imgUrl": "/upload/images/29d9524f931636ec68689ef5227f965f.jpg",
+          "name": "四口味挂耳咖啡混合装（4包入）",
+          "enName": "",
+          "brief": "/世界四大精品咖啡产地的纯净风土/<br/>\n/开启每个人自己的咖啡客旅程/<br/>\n*内含耶加雪菲、巴西、巴布亚新几内亚、西达摩各1包",
+          "price": "40.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "760",
+          "imgUrl": "/upload/images/e078256d29b4430aa409a125b239d9c2.jpg",
+          "name": "小切块-浅草",
+          "enName": "Teatime",
+          "brief": "/“浅草才能没马蹄”/</br>\n/切着吃的雨前西湖龙井/</br>\n/中国绿茶与爽脆果实，工笔勾勒一杯好茶/</br>\n/复杂而纯粹的深浅绿意/</br>\n\n*本款为季节性产品，夹心层由南水梨/马蹄更替。",
+          "price": "36.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "242",
+          "imgUrl": "/upload/images/88851927b43f611df1fe944ebe8dd0e6.jpg",
+          "name": "小切块-栗蓉暗香",
+          "enName": "Chestnut Cream ",
+          "brief": "/栗子熟了，自然地落下/<br/>\n/打开果壳，剥出诱人的暖黄色，和时间的低语/<br/>\n/香甜粉糯的滋味，毛线团里的小甜梦/<br/>\n",
+          "price": "36.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "666",
+          "imgUrl": "/upload/images/7f4b55947d9042387415747d068a0a1a.jpg",
+          "name": "小切块-心语心愿",
+          "enName": "Heartfelt Wish",
+          "brief": "/椰子香气戚风坯，松软/<br/>\n/兼有颗粒感，平衡奶油的软滑/<br/>\n/手工刨削白巧克力薄片/<br/>\n/类比白色玫瑰花瓣，均匀地铺满/<br/>",
+          "price": "36.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "147",
+          "imgUrl": "/upload/images/ac53847994d7a824e9b7cf00186bebc2.jpg",
+          "name": "小切块-松仁淡奶",
+          "enName": "Pine Stone Cowboy",
+          "brief": "<font color='red'>/21cake切块蛋糕/<br/>/月销进入3万盒之际/<br/>/小切块-松仁淡奶由原先的55g调整为65g/</font>",
+          "price": "36.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "184",
+          "imgUrl": "/upload/images/e4889cf37e56300e1c279ba6e6ca9d39.jpg",
+          "name": "小切块-芒果慕斯",
+          "enName": "Mango Jerry",
+          "brief": "<font color='red'>* 新增青柠夹心</font><br/>\n/21cake切块蛋糕/<br/>\n/月销进入3万盒之际/<br/>\n/所有口味，单盒克数增加多至45%/<br/>\n/小切块-芒果慕斯由原先的55g调整为85g/<br/>\n",
+          "price": "36.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "181",
+          "imgUrl": "/upload/images/d0f6a2490518946ba1027fb1b72ac05f.jpg",
+          "name": "小切块-黑白巧克力慕斯",
+          "enName": "Black and White Chocolate Mousse",
+          "brief": "/巧克力弹奏的精巧和弦/</br>\n/一款无比动人的巧克力慕斯小蛋糕/</br>\n/口感冰凉细腻/</br>\n/白巧克力慕斯的甜，与底部黑巧克力酱的苦/</br>\n<font color='red'>/21cake切块蛋糕/<br/>/月销进入3万盒之际/<br/>/所有口味，单盒克数增加多至45%/<br/>/小切块-黑白巧克力慕斯由原先的55g调整为85g/</font>",
+          "price": "36.00",
+          "spec": "块",
+          "tags": []
+        },
+        {
+          "id": "146",
+          "imgUrl": "/goods/14635433047528.jpg",
+          "name": "小切块-新卡",
+          "enName": "Cappuccino In Mind",
+          "brief": "/两层戚风香草坯与咖啡夹心/<br/>\n/奶油中创造性拌入耶加雪菲咖啡粉，让咖啡的口味更加浓郁有层次/<br/>\n/表面撒上现磨咖啡粉，香气四溢/<br/>\n/体会这刚好的小确幸/<br/>\n<font color='red'>/21cake切块蛋糕/<br/>/月销进入3万盒之际/<br/>/所有口味，单盒克数增加多至45%/<br/>/小切块-卡布其诺由原先的55g调整为75g/</font>",
+          "price": "36.00",
+          "spec": "份",
+          "tags": []
+        }
+      ]
+    },
+    "5": {
+      "name": "常温蛋糕",
+      "title": "常温蛋糕",
+      "description": "方便携带，恰到好处的满足",
+      "goods": [
+        {
+          "id": "788",
+          "imgUrl": "/upload/images/16402f5f4f006231871d81dc71f35b05.jpg",
+          "name": "磅蛋糕切片（核桃）",
+          "enName": "Pound cake slice",
+          "brief": "/使用fine dining级别原料/<br/>\n/烤制朴素的日常点心/<br/>\n/降至常温后，到手中是恰到好处的温度/<br/>\n/轻松拿捏的形状、分量，更适合随时一口/<br/>",
+          "price": "8.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "786",
+          "imgUrl": "/upload/images/be1df159b4d226180e99ce09194b7a41.jpg",
+          "name": "磅蛋糕切片（杏仁）",
+          "enName": "Pound cake slice",
+          "brief": "/使用fine dining级别原料/<br/>\n/烤制朴素的日常点心/<br/>\n/降至常温后，到手中是恰到好处的温度/<br/>\n/轻松拿捏的形状、分量，更适合随时一口/<br/>",
+          "price": "8.00",
+          "spec": "份",
+          "tags": []
+        },
+        {
+          "id": "790",
+          "imgUrl": "/upload/images/4430cb04cdaf6de8e4e23323475b871b.jpg",
+          "name": "磅蛋糕切片（黑朗姆）",
+          "enName": "Pound cake slice",
+          "brief": "/使用fine dining级别原料/<br/>\n/烤制朴素的日常点心/<br/>\n/降至常温后，到手中是恰到好处的温度/<br/>\n/轻松拿捏的形状、分量，更适合随时一口/<br/>",
+          "price": "8.00",
+          "spec": "份",
+          "tags": []
+        }
+      ]
+    },
+    "6": {
+      "name": "设计师礼品",
+      "title": "礼品",
+      "description": "设计师礼品专区",
+      "goods": [
+        {
+          "id": "807",
+          "imgUrl": "/upload/images/0ca8d77861d02e3bad9f2a421f4d1eb5.jpg",
+          "name": "设计师竹纸扇",
+          "enName": "Paper fan",
+          "brief": "/竹制扇柄、扇骨，表面碳化工艺/<br/>\n/手工西和麻纸扇面，纹路自然氤氲/<br/>\n/拿在手中，就是一夏幽凉/<br/>",
+          "price": "38.00",
+          "spec": "把",
+          "tags": [
+            {
+              "id": "20",
+              "content": "设计师款"
+            }
+          ]
+        },
+        {
+          "id": "932",
+          "imgUrl": "/upload/images/338162ae360f9528d19b5243e03f0c92.jpg",
+          "name": "水果软糖",
+          "enName": "",
+          "brief": "",
+          "price": "28.00",
+          "spec": "盒",
+          "tags": []
+        },
+        {
+          "id": "930",
+          "imgUrl": "/upload/images/676d157fcdbfb8dfdf006745d1849bc5.jpg",
+          "name": "圣诞绿蜡烛",
+          "enName": "",
+          "brief": "",
+          "price": "12.00",
+          "spec": "个",
+          "tags": []
+        },
+        {
+          "id": "928",
+          "imgUrl": "/upload/images/0acb922002ade750b2173e68e1044f77.jpg",
+          "name": "圣诞红蜡烛",
+          "enName": "",
+          "brief": "",
+          "price": "12.00",
+          "spec": "个",
+          "tags": []
+        },
+        {
+          "id": "958",
+          "imgUrl": "/upload/images/54340fde28ab99cbc6bc9bd4d0fa0635.jpg",
+          "name": "Ｆｏｒｅｖｅｒ21（生日包）",
+          "enName": "",
+          "brief": "",
+          "price": "28.00",
+          "spec": "个",
+          "tags": [
+            {
+              "id": "44",
+              "content": "生日"
+            }
+          ]
+        },
+        {
+          "id": "670",
+          "imgUrl": "/upload/images/1a2bb9decfcadfc87cd00c9bb1843546.jpg",
+          "name": "拷贝蜡烛-抹茶和栗",
+          "enName": "Candle",
+          "brief": "",
+          "price": "18.00",
+          "spec": "个",
+          "tags": []
+        },
+        {
+          "id": "668",
+          "imgUrl": "/upload/images/02c6e05c87abf9faa6a7960bae8f113f.jpg",
+          "name": "拷贝蜡烛-爱尔兰咖啡",
+          "enName": "Candle",
+          "brief": "",
+          "price": "18.00",
+          "spec": "个",
+          "tags": []
+        },
+        {
+          "id": "573",
+          "imgUrl": "/upload/images/1468954437829687f956cfae081fa0e6.jpg",
+          "name": "设计师牛皮本",
+          "enName": "Kraft book",
+          "brief": "",
+          "price": "8.00",
+          "spec": "个",
+          "tags": []
+        }
+      ]
+    },
+    "7": {
+      "name": "面包",
+      "title": "面包",
+      "description": "面包",
+      "goods": [
+        {
+          "id": "950",
+          "imgUrl": "/upload/images/848f645eddc23cd3ce067d4045815713.jpg",
+          "name": "一家三口",
+          "enName": "",
+          "brief": "/内含阳光葡萄卷、卜壳吐司、榛子巧克力软欧各一份，\n随单赠送挂耳咖啡一包（口味随机）/<br/>\n/真正的美好生活/ <br/>\n/是每天早晨/ <br/>\n/案上都有新烤的面包/<br/>",
+          "price": "39.90",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "49",
+              "content": "面包"
+            }
+          ]
+        },
+        {
+          "id": "954",
+          "imgUrl": "/upload/images/22036a1c35ca1c5c59766e416dd1912f.jpg",
+          "name": "原味可颂（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/一只可颂就是一个面包师傅的一天/<br/>\n/反复折叠33次/<br/>\n/烤制出均匀分布，蜂窝状内部气孔/<br/>\n<br/>\n/有机小麦粉/<br/>\n/零误差融入，最高食品标准黄油/<br/>\n/与纯正瑞士鲜奶/<br/>\n/整个过程不添加一滴水。<br/>\n",
+          "price": "12.00",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "38",
+              "content": "可颂"
+            }
+          ]
+        },
+        {
+          "id": "694",
+          "imgUrl": "/upload/images/2e087d09c22f0c7862b8311b91c48571.jpg",
+          "name": "元气满满组合（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/真正的美好生活/ <br/>\n/是每天早晨/ <br/>\n/案上都有新烤的面包/",
+          "price": "39.00",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "49",
+              "content": "面包"
+            }
+          ]
+        },
+        {
+          "id": "942",
+          "imgUrl": "/upload/images/eff950e4c6ee3cb8abcf7da002ecb619.jpg",
+          "name": "购磅数蛋糕，享39元换购【丹麦组合】",
+          "enName": "",
+          "brief": "/真正的美好生活/ <br/>\n/是每天早晨/ <br/>\n/案上都有新烤的面包/<br/>",
+          "price": "58.40",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "47",
+              "content": "总有一款适合你"
+            }
+          ]
+        },
+        {
+          "id": "934",
+          "imgUrl": "/upload/images/e7118a05b2386ca80ad2d1103c2c1ce1.jpg",
+          "name": "核桃派（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/焦糖核桃满嵌酥皮/<br/>\n/酥甜，温暖/<br/>\n/让你在这个寒冬，还想期待一场雪/",
+          "price": "18.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "49",
+              "content": "面包"
+            }
+          ]
+        },
+        {
+          "id": "936",
+          "imgUrl": "/upload/images/11861f1520eeef78fb5980d651c9bc1d.jpg",
+          "name": "肉桂卷（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/从肉桂卷开始/<br/>\n/重新认识肉桂这种古老的香辛料/",
+          "price": "13.00",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "50",
+              "content": "女性"
+            },
+            {
+              "id": "49",
+              "content": "面包"
+            }
+          ]
+        },
+        {
+          "id": "843",
+          "imgUrl": "/upload/images/3ab42e3ed23dc2d31b3513eb3341ded4.jpg",
+          "name": "蓝莓丹麦（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/金黄，酥脆，内部孔洞均匀舒展/<br/>\n/咬它的口感，像踩在雪上/<br/>\n/野生蓝莓，手工熬制酱心/<br/>\n/抿一下，蓝莓酱融化在油脂香气中/<br/>",
+          "price": "13.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "49",
+              "content": "面包"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "50",
+              "content": "女性"
+            }
+          ]
+        },
+        {
+          "id": "722",
+          "imgUrl": "/upload/images/784496196c211a6237c4cdc3fbbd516a.jpg",
+          "name": "北海道吐司（4片/京沪满39元包邮）",
+          "enName": "",
+          "brief": "/不是每个人都能够享有新鲜空气，洁净的水/<br/>\n/和有机小麦、天然乳制品制作的面包/<br/>",
+          "price": "13.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "49",
+              "content": "面包"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            }
+          ]
+        },
+        {
+          "id": "857",
+          "imgUrl": "/upload/images/f05d5aeaf79a28f303cd00feeade8efc.jpg",
+          "name": "阳光葡萄卷（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/为儿童设计/<br/>\n/太阳造型，天天晴朗/",
+          "price": "13.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "49",
+              "content": "面包"
+            }
+          ]
+        },
+        {
+          "id": "865",
+          "imgUrl": "/upload/images/9e335de3e3cff00c0fb683f918b575a0.jpg",
+          "name": "卜壳吐司（2片/京沪满39元包邮）",
+          "enName": "",
+          "brief": "/使用自研奶酱/<br/>\n/制作柔软、质朴的切片面包/<br/>\n/抿一下/<br/>\n/奶香由内而外溢出/<br/>",
+          "price": "12.00",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "19",
+              "content": "儿童"
+            },
+            {
+              "id": "49",
+              "content": "面包"
+            }
+          ]
+        },
+        {
+          "id": "867",
+          "imgUrl": "/upload/images/4abe09e65cf5095359ce9aebdaea4f54.jpg",
+          "name": "卜壳吐司（家庭装/京沪满39元包邮）",
+          "enName": "",
+          "brief": "/使用自研奶酱/<br/>\n/制作柔软、质朴的切片面包/<br/>\n/抿一下/<br/>\n/奶香由内而外溢出/<br/>",
+          "price": "32.00",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "49",
+              "content": "面包"
+            },
+            {
+              "id": "19",
+              "content": "儿童"
+            }
+          ]
+        },
+        {
+          "id": "736",
+          "imgUrl": "/upload/images/2665680d079329234b1c999ab5267bdd.jpg",
+          "name": "红糖红枣桂圆软欧（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/传统红糖搭配新疆红枣，与甜润桂圆干/<br/>\n/熟悉的食材带来甜软、踏实的口感/<br/>\n/比中式点心营养更丰富，非常适合秋冬进补/<br/>\n/家里吃不惯面包的老人/<br/>\n/也可以从尝试【养】开始，养成食用面包的习惯/<br/>",
+          "price": "12.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "49",
+              "content": "面包"
+            },
+            {
+              "id": "50",
+              "content": "女性"
+            }
+          ]
+        },
+        {
+          "id": "730",
+          "imgUrl": "/upload/images/b92c952a6577d37d9b6fa39403822ace.jpg",
+          "name": "榛子巧克力软欧（京沪满39元包邮）",
+          "enName": "",
+          "brief": "/平静的褐色面包，柔韧、微苦/<br/>\n/每一口都可以吃到香脆榛子碎与巧克力颗粒/<br/>\n/坚果与黑巧的多巴胺搭配/<br/>\n/让我们健康、快乐，能够承受辛苦的工作/<br/>",
+          "price": "14.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "49",
+              "content": "面包"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "50",
+              "content": "女性"
+            }
+          ]
+        },
+        {
+          "id": "732",
+          "imgUrl": "/upload/images/cfded09f3ed4c73b615feb887c29efd4.jpg",
+          "name": "玫瑰吐司(4片/京沪满39元包邮)",
+          "enName": "",
+          "brief": "/对现代女性来说，兼得面包与玫瑰并不困难/<br/>",
+          "price": "14.80",
+          "spec": "一份",
+          "tags": [
+            {
+              "id": "49",
+              "content": "面包"
+            },
+            {
+              "id": "31",
+              "content": "人气"
+            },
+            {
+              "id": "50",
+              "content": "女性"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
