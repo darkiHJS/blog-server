@@ -1,16 +1,18 @@
-{
+{  
   "cat": [
     {
       "name": "蛋糕",
       "title": "蛋糕",
       "description": "新鲜乳脂奶油蛋糕",
       "cat_ids": "2,3,4,5,6,20,49,18,74,75",
+      "imgUrl": "/goods/1459337079137.jpg",
       "sort": "1"
     },
     {
       "name": "冰淇淋",
       "title": "＋Gelato10",
       "description": "10天生命的意式杰拉朵冰淇淋",
+      "imgUrl": "/upload/images/4d839ee123f383d1fd13c47967412bf7.jpg",
       "cat_ids": "29,61",
       "sort": "2"
     },
@@ -18,6 +20,7 @@
       "name": "咖啡下午茶",
       "title": "配饮",
       "description": "挂耳咖啡小切块",
+      "imgUrl": "/upload/images/7f4b55947d9042387415747d068a0a1a.jpg",
       "cat_ids": "35,37",
       "sort": "4"
     },
@@ -25,6 +28,7 @@
       "name": "常温蛋糕",
       "title": "常温蛋糕",
       "description": "方便携带，恰到好处的满足",
+      "imgUrl": "/upload/images/16402f5f4f006231871d81dc71f35b05.jpg",
       "cat_ids": "36",
       "sort": "5"
     },
@@ -32,6 +36,7 @@
       "name": "设计师礼品",
       "title": "礼品",
       "description": "设计师礼品专区",
+      "imgUrl": "/upload/images/1a2bb9decfcadfc87cd00c9bb1843546.jpg",
       "cat_ids": "52",
       "sort": "6"
     },
@@ -40,6 +45,7 @@
       "title": "面包",
       "description": "面包",
       "cat_ids": "81,80,79,78,77",
+      "imgUrl": "/upload/images/2e087d09c22f0c7862b8311b91c48571.jpg",
       "sort": "7"
     }
   ],
@@ -1607,7 +1613,7 @@
         {
           "id": "954",
           "imgUrl": "/upload/images/22036a1c35ca1c5c59766e416dd1912f.jpg",
-          "name": "原味可颂（京沪满39元包邮）",
+          "name": "原味可颂",
           "enName": "",
           "brief": "/一只可颂就是一个面包师傅的一天/<br/>\n/反复折叠33次/<br/>\n/烤制出均匀分布，蜂窝状内部气孔/<br/>\n<br/>\n/有机小麦粉/<br/>\n/零误差融入，最高食品标准黄油/<br/>\n/与纯正瑞士鲜奶/<br/>\n/整个过程不添加一滴水。<br/>\n",
           "price": "12.00",
@@ -1626,7 +1632,7 @@
         {
           "id": "694",
           "imgUrl": "/upload/images/2e087d09c22f0c7862b8311b91c48571.jpg",
-          "name": "元气满满组合（京沪满39元包邮）",
+          "name": "元气满满组合",
           "enName": "",
           "brief": "/真正的美好生活/ <br/>\n/是每天早晨/ <br/>\n/案上都有新烤的面包/",
           "price": "39.00",
@@ -1649,7 +1655,7 @@
         {
           "id": "942",
           "imgUrl": "/upload/images/eff950e4c6ee3cb8abcf7da002ecb619.jpg",
-          "name": "购磅数蛋糕，享39元换购【丹麦组合】",
+          "name": "购磅数蛋糕",
           "enName": "",
           "brief": "/真正的美好生活/ <br/>\n/是每天早晨/ <br/>\n/案上都有新烤的面包/<br/>",
           "price": "58.40",
@@ -1672,7 +1678,7 @@
         {
           "id": "934",
           "imgUrl": "/upload/images/e7118a05b2386ca80ad2d1103c2c1ce1.jpg",
-          "name": "核桃派（京沪满39元包邮）",
+          "name": "核桃派",
           "enName": "",
           "brief": "/焦糖核桃满嵌酥皮/<br/>\n/酥甜，温暖/<br/>\n/让你在这个寒冬，还想期待一场雪/",
           "price": "18.80",
@@ -1695,7 +1701,7 @@
         {
           "id": "936",
           "imgUrl": "/upload/images/11861f1520eeef78fb5980d651c9bc1d.jpg",
-          "name": "肉桂卷（京沪满39元包邮）",
+          "name": "肉桂卷",
           "enName": "",
           "brief": "/从肉桂卷开始/<br/>\n/重新认识肉桂这种古老的香辛料/",
           "price": "13.00",
@@ -1718,7 +1724,7 @@
         {
           "id": "843",
           "imgUrl": "/upload/images/3ab42e3ed23dc2d31b3513eb3341ded4.jpg",
-          "name": "蓝莓丹麦（京沪满39元包邮）",
+          "name": "蓝莓丹麦",
           "enName": "",
           "brief": "/金黄，酥脆，内部孔洞均匀舒展/<br/>\n/咬它的口感，像踩在雪上/<br/>\n/野生蓝莓，手工熬制酱心/<br/>\n/抿一下，蓝莓酱融化在油脂香气中/<br/>",
           "price": "13.80",
@@ -1741,7 +1747,7 @@
         {
           "id": "722",
           "imgUrl": "/upload/images/784496196c211a6237c4cdc3fbbd516a.jpg",
-          "name": "北海道吐司（4片/京沪满39元包邮）",
+          "name": "北海道吐司",
           "enName": "",
           "brief": "/不是每个人都能够享有新鲜空气，洁净的水/<br/>\n/和有机小麦、天然乳制品制作的面包/<br/>",
           "price": "13.80",
@@ -1764,7 +1770,7 @@
         {
           "id": "857",
           "imgUrl": "/upload/images/f05d5aeaf79a28f303cd00feeade8efc.jpg",
-          "name": "阳光葡萄卷（京沪满39元包邮）",
+          "name": "阳光葡萄卷",
           "enName": "",
           "brief": "/为儿童设计/<br/>\n/太阳造型，天天晴朗/",
           "price": "13.80",
@@ -1783,7 +1789,7 @@
         {
           "id": "865",
           "imgUrl": "/upload/images/9e335de3e3cff00c0fb683f918b575a0.jpg",
-          "name": "卜壳吐司（2片/京沪满39元包邮）",
+          "name": "卜壳吐司",
           "enName": "",
           "brief": "/使用自研奶酱/<br/>\n/制作柔软、质朴的切片面包/<br/>\n/抿一下/<br/>\n/奶香由内而外溢出/<br/>",
           "price": "12.00",
@@ -1802,7 +1808,7 @@
         {
           "id": "867",
           "imgUrl": "/upload/images/4abe09e65cf5095359ce9aebdaea4f54.jpg",
-          "name": "卜壳吐司（家庭装/京沪满39元包邮）",
+          "name": "卜壳吐司",
           "enName": "",
           "brief": "/使用自研奶酱/<br/>\n/制作柔软、质朴的切片面包/<br/>\n/抿一下/<br/>\n/奶香由内而外溢出/<br/>",
           "price": "32.00",
@@ -1821,7 +1827,7 @@
         {
           "id": "736",
           "imgUrl": "/upload/images/2665680d079329234b1c999ab5267bdd.jpg",
-          "name": "红糖红枣桂圆软欧（京沪满39元包邮）",
+          "name": "红糖红枣桂圆软欧",
           "enName": "",
           "brief": "/传统红糖搭配新疆红枣，与甜润桂圆干/<br/>\n/熟悉的食材带来甜软、踏实的口感/<br/>\n/比中式点心营养更丰富，非常适合秋冬进补/<br/>\n/家里吃不惯面包的老人/<br/>\n/也可以从尝试【养】开始，养成食用面包的习惯/<br/>",
           "price": "12.80",
@@ -1840,7 +1846,7 @@
         {
           "id": "730",
           "imgUrl": "/upload/images/b92c952a6577d37d9b6fa39403822ace.jpg",
-          "name": "榛子巧克力软欧（京沪满39元包邮）",
+          "name": "榛子巧克力软欧",
           "enName": "",
           "brief": "/平静的褐色面包，柔韧、微苦/<br/>\n/每一口都可以吃到香脆榛子碎与巧克力颗粒/<br/>\n/坚果与黑巧的多巴胺搭配/<br/>\n/让我们健康、快乐，能够承受辛苦的工作/<br/>",
           "price": "14.80",
@@ -1863,7 +1869,7 @@
         {
           "id": "732",
           "imgUrl": "/upload/images/cfded09f3ed4c73b615feb887c29efd4.jpg",
-          "name": "玫瑰吐司(4片/京沪满39元包邮)",
+          "name": "玫瑰吐司",
           "enName": "",
           "brief": "/对现代女性来说，兼得面包与玫瑰并不困难/<br/>",
           "price": "14.80",

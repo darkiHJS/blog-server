@@ -2,17 +2,28 @@ const db = require('../db/lowdb')
 
 const fn_goodsIndex =async function(ctx, next) {
   let data = await db.then(db => db.get('cat').value())
+  let imgBase = 'https://www.21cake.com/'
   await next()
-  if (data) ctx.body = { code: 0 , data}
-  else ctx.body = {code: -1}
+  if (data) {
+    data.forEach(e => {
+      if (!/^https:/.test(e.imgUrl)) e.imgUrl = imgBase + e.imgUrl
+    });
+    ctx.body = { code: 0 , data}
+  }else{
+    ctx.body = {code: -1}
+  }
 }
 
 const fn_goods =async function(ctx, next) {
+  let imgBase = 'https://www.21cake.com/'
   await next()
   let data = await db.then(db =>{
     return db.get('goodsArr.' + ctx.params.id).value()
   })
   if(data) {
+    data.goods.forEach(e => {
+      if (!/^https:/.test(e.imgUrl)) e.imgUrl = imgBase + e.imgUrl
+    });
     ctx.body = {
       code: 0,
       data
