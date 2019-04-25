@@ -4,7 +4,7 @@ const path = require('path')
 
 db.then(db => {
   new Promise((res, rej) => {
-    fs.readFile(path.resolve('data/goods.json'), (err, data) => {
+    fs.readFile('../data/goods.json', (err, data) => {
       if (err) rej(err)
       let newGoods = {
         cat : [],
@@ -21,16 +21,16 @@ db.then(db => {
           description: e.description,
           goods: []
         }
-        goodsArr[e.sort].goods.forEach(e =>{
+        goodsArr[e.sort].goods.forEach(food =>{
           let ne = {
-            id      : e.site_goods_id,
-            imgUrl  : e.img_url,
-            name    : e.name,
-            enName  : e.en_name,
-            brief   : e.brief,
-            price   : e.price,
-            spec    : e.spec,
-            tags    : e.tags
+            id      : food.site_goods_id,
+            imgUrl  : food.img_url,
+            name    : food.name,
+            enName  : food.en_name,
+            brief   : food.brief,
+            price   : food.price,
+            spec    : food.spec,
+            sort    : e.sort
           }
           goodHeader.goods.push(ne)
         })
